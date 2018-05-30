@@ -1,4 +1,4 @@
-# GroupNo51-SeeFood
+# SeeFood - Food that you can see
 Using smartphone camera to detect multiple fruits and vegetables and suggest recipes
 
 ## Instructions
